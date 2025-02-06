@@ -1,1 +1,14 @@
-nivel basico
+<!DOCTYPE html>
+<html>
+<head>
+    <title>buruntu</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>hola soy buruntu</h1>
+    <p>aqui ire subiendo cositas, proyectos y tal</p>
+</body>
+</html>
